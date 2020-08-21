@@ -1,0 +1,17 @@
+{
+  "name" : "AInimal - 寵物養成交友",
+  "short_name" : "AInimal",
+  "description" : "比你更懂你的交友軟體",
+  "start_url" : "/",
+  "theme_color": "#e6c568",
+  "display" : "standalone",
+  "orientation" : "portrait",
+  "lang" : "Chinese",
+  "icons" : [
+    {
+      "src": "/static/app_icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
